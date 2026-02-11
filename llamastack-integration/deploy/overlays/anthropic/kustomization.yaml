@@ -5,7 +5,6 @@ namespace: llm
 
 resources:
   - ../../base
-  - anthropic-api-key-secret.yaml
 
 patches:
   - target:

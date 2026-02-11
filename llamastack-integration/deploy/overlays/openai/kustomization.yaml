@@ -5,7 +5,6 @@ namespace: llm
 
 resources:
   - ../../base
-  - openai-api-key-secret.yaml
 
 patches:
   - target:
